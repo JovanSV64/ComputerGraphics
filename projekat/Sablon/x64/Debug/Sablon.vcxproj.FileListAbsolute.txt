@@ -1,0 +1,2 @@
+C:\Users\jovan\Desktop\faks\semestar 7\racunarska grafika\V3Z6\x64\Debug\glew32.dll
+C:\Users\jovan\Desktop\faks\semestar 7\racunarska grafika\projekat\x64\Debug\glew32.dll

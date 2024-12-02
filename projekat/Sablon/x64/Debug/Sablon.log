@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\jovan\Desktop\faks\semestar 7\racunarska grafika\projekat\main.cpp(96,22): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jovan\Desktop\faks\semestar 7\racunarska grafika\projekat\main.cpp(118,22): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jovan\Desktop\faks\semestar 7\racunarska grafika\projekat\main.cpp(210,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\faks\semestar 7\racunarska grafika\projekat\main.cpp(216,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\faks\semestar 7\racunarska grafika\projekat\main.cpp(217,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sablon.vcxproj -> C:\Users\jovan\Desktop\faks\semestar 7\racunarska grafika\projekat\x64\Debug\Sablon.exe
